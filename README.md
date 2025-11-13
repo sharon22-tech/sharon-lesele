@@ -1,11 +1,14 @@
 # sharon-lesele
 <h1 align="center">Hi 👋, I'm Sharon Lesele</h1>
 
-<img src="assets/profile.jpg" alt="Sharon Lesele" width="200"/>
+<img src="assets/shazz.jpg" alt="Sharon Lesele" width="200"/>
 
 <h3 align="center">A aspiring MERN full-stack developer from Johannesburg</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharon22-tech&label=Profile%20views&color=0e75b6&style=flat" alt="sharon22-tech" /> </p>
+
+## 📄 My CV
+You can view my CV [here](assets/Sharon_Lesele_CV.pdf).
 
 - 🌱 I’m currently learning **Linux, cloud and cybersecurity**
 
